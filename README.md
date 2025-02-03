@@ -3,6 +3,8 @@
 Just a temp and unmaintained repo.
 This directory contains examples demonstrating various features of the chess package and info about the API of https://github.com/CorentinGS/chess.
 
+Important note: this code is based on the main repo source code and not on its latest release. Meaning that it won't work correctly with certain API and example like examples\chess_components\main.go and such.
+
 ## Documentation
 
 For more detailed information about the chess package API, please refer to:
